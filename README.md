@@ -35,7 +35,6 @@ Antes de começar a configurar e executar o projeto, verifique se você possui a
 yarn global add create-react-app
 ```
 
-Certifique-se de ter todas essas ferramentas instaladas e configuradas antes de seguir as instruções de execução do projeto mencionadas anteriormente.
 
 ## Como Rodar o Projeto
 
@@ -63,13 +62,14 @@ yarn start
 
 ## Como Executar os Testes
 
-Para executar os testes unitários, utilize o seguinte comando:
+Esse projeto contém testes para as duas views principais do projeto. 
+Para executar os testes, utilize o seguinte comando:
 ```
 yarn test
 ```
 Isso executará todos os testes e exibirá os resultados no terminal.
 
-![Exemplo testes](https://github.com/thiagocrestani/react-front/blob/main/webapp/public/example3.png?raw=true)
+![Exemplo testes](https://github.com/thiagocrestani/webapp/blob/main/public/example3.png?raw=true)
 
 
 ## API de dados
