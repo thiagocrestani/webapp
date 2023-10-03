@@ -1,0 +1,20 @@
+.search-bar{
+    width: 100%;
+    display: flex;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #e2e2e2;
+    width: 100%;
+}
+
+button{
+    background-color: #0071d9;
+    border: 0px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 15px;
+}

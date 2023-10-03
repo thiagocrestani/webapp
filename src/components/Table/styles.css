@@ -1,0 +1,38 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #e2e2e2;
+}
+
+thead th {
+    font-weight: bold;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+.filter-input {
+    margin-top: 10px;
+}
+
+
+table input {
+    margin: 0;
+    width: calc(100% - 20px);
+}
+
+
+table select {
+    margin: 0;
+    width: calc(100% - 20px);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #e2e2e2;
+    width: 100%;
+}
