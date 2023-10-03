@@ -10,14 +10,14 @@ Este projeto é uma aplicação React que permite a visualização da lista de i
   3. Tabelas que mostram os produtores com maior e menor intervalo entre vitórias.
   4. Um campo de busca que permite exibir os vencedores de um ano específico selecionado.
 
-![Exemplo do Dashboard](https://github.com/thiagocrestani/react-front/blob/main/webapp/public/example2.png?raw=true)
+![Exemplo do Dashboard](https://github.com/thiagocrestani/webapp/blob/main/public/example2.png?raw=true)
 
 
 - **Lista de Filmes**: A lista de filmes inclui paginação e dois filtros:
   1. Filtro por ano.
   2. Filtro por vencedor.
 
-![Exemplo do Lista de Filmes](https://github.com/thiagocrestani/react-front/blob/main/webapp/public/example1.png?raw=true)
+![Exemplo do Lista de Filmes](https://github.com/thiagocrestani/webapp/blob/main/public/example1.png?raw=true)
 
 ## Requisitos do Projeto
 
