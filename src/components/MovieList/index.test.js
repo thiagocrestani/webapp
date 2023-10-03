@@ -203,9 +203,7 @@ describe("MovieList component", () => {
 
     await act(async () => render(<MovieList />));
 
-
     const selectElement = screen.getByRole("combobox");
-
 
     fireEvent.change(selectElement, { target: { value: "true" } });
 

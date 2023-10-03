@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import "./App.css";
+import "./global.css";
 import Dashboard from "./components/Dashboard";
 import MovieList from "./components/MovieList";
+
 
 function App() {
   const [activeView, setActiveView] = useState("dashboard");

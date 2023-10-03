@@ -12,7 +12,11 @@ const SearchBar = ({ onSearch }) => {
   };
 
   return (
-    <form className="search-bar" onSubmit={handleSubmit} data-testid="search-form">
+    <form
+      className="search-bar"
+      onSubmit={handleSubmit}
+      data-testid="search-form"
+    >
       <input
         type="number"
         placeholder="Search by year..."
